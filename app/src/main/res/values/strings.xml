@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">isPrime</string>
+    <string name="isPrimeToday">#今天是质数吗#</string>
+</resources>
